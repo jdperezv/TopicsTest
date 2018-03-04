@@ -11,6 +11,8 @@
     <modules>
         <module>api</module>
         <module>ui</module>
+        <module>prueba</module>
+        <module>prueba2</module>
     </modules>
 
 
